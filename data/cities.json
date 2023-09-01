@@ -1,0 +1,130 @@
+{
+  "cities": [
+    {
+      "cityName": "Kyiv",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "1986-01-01T11:55:22.000Z",
+      "notes": "This is my hometown 💖",
+      "position": {
+        "lat": "50.44908445840651",
+        "lng": "30.531245364237428"
+      },
+      "countryCode": "UA",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
+      "id": 1
+    },
+    {
+      "cityName": "Mragowo",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2023-09-01T10:32:22.838Z",
+      "notes": "You can find me here 🙂",
+      "position": {
+        "lat": "53.86568570795633",
+        "lng": "21.30413305048947"
+      },
+      "countryCode": "PL",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg",
+      "id": 2
+    },
+    {
+      "cityName": "Vodice",
+      "country": "Croatia",
+      "emoji": "🇭🇷",
+      "date": "2023-08-18T10:33:42.000Z",
+      "notes": "Vacation here was simply incredible! 🌊",
+      "position": {
+        "lat": "43.76034698887757",
+        "lng": "15.77889743522886"
+      },
+      "countryCode": "HR",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
+      "id": 3
+    },
+    {
+      "cityName": "Amsterdam",
+      "country": "Netherlands (the)",
+      "emoji": "🇳🇱",
+      "date": "2022-10-28T10:34:41.000Z",
+      "notes": "Very interesting city 😜",
+      "position": {
+        "lat": "52.3710611581157",
+        "lng": "4.893124502497473"
+      },
+      "countryCode": "NL",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+      "id": 4
+    },
+    {
+      "cityName": "Brugge",
+      "country": "Belgium",
+      "emoji": "🇧🇪",
+      "date": "2022-10-31T11:35:39.000Z",
+      "notes": "One of my favorite cities it is very biautiful 🏰",
+      "position": {
+        "lat": "51.21232443787556",
+        "lng": "3.2300703153756993"
+      },
+      "countryCode": "BE",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg",
+      "id": 5
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2022-11-03T11:38:24.000Z",
+      "notes": "Definitely it worth to visit this city at least once! 🗼",
+      "position": {
+        "lat": "48.85843258888809",
+        "lng": "2.3682084172696887"
+      },
+      "countryCode": "FR",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg",
+      "id": 6
+    },
+    {
+      "cityName": "Namur",
+      "country": "Belgium",
+      "emoji": "🇧🇪",
+      "date": "2022-11-01T11:40:34.000Z",
+      "notes": "I love Belgium 💗",
+      "position": {
+        "lat": "50.46731621516838",
+        "lng": "4.876779884678447"
+      },
+      "countryCode": "BE",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg",
+      "id": 7
+    },
+    {
+      "cityName": "Luzern",
+      "country": "Switzerland",
+      "emoji": "🇨🇭",
+      "date": "2014-08-01T10:52:48.000Z",
+      "notes": "I want to come back one day 😍",
+      "position": {
+        "lat": "47.05011633438772",
+        "lng": "8.304165269981905"
+      },
+      "countryCode": "CH",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg",
+      "id": 8
+    },
+    {
+      "cityName": "Stavanger",
+      "country": "Norway",
+      "emoji": "🇳🇴",
+      "date": "2014-09-11T10:54:53.000Z",
+      "notes": "I want to leave here in summer 😃",
+      "position": {
+        "lat": "58.968205750084074",
+        "lng": "5.731560021658223"
+      },
+      "countryCode": "NO",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
+      "id": 9
+    }
+  ]
+}
