@@ -111,20 +111,6 @@
       "countryCode": "CH",
       "flag": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg",
       "id": 8
-    },
-    {
-      "cityName": "Stavanger",
-      "country": "Norway",
-      "emoji": "🇳🇴",
-      "date": "2014-09-11T10:54:53.000Z",
-      "notes": "I want to leave here in summer 😃",
-      "position": {
-        "lat": "58.968205750084074",
-        "lng": "5.731560021658223"
-      },
-      "countryCode": "NO",
-      "flag": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
-      "id": 9
     }
   ]
 }
